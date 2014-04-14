@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1356544778 source:c:\users\osaze\documents\codeblocks\binarygraphics\main.cpp
+	<iostream>
+	<string>
+	<bitset>
+	<windows.h>
+	<time.h>
+
